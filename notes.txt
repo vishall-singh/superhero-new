@@ -1,0 +1,33 @@
+//super hero api project 
+ html,css and JS ( event listener,localstoreage);
+
+// index.html 
+
+// home page 
+
+//feature 
+    //search bar 
+    // type > 2 --> api hit super hero api 
+    iro --> iron man iron fis 
+
+
+    // type --> superhero api --> public api --> response --> card --> html
+
+
+//favourite.html 
+   // i want to stor the superhero in my fav list
+   // persistance --> localstoreage --> temperoray storage  provided by browser 
+
+
+
+//detaisl.html
+
+{
+    "STRING":"STRING"
+}
+
+//
+
+[1,2,3]JSON.stringify --> "[1,2,3]";
+
+"[1,2,3]" --> JSON.parse([1,2,3]
