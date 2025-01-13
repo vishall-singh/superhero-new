@@ -1,5 +1,5 @@
 Superhero Search & Details App
-Welcome to the Superhero Search & Details project! This web app allows you to search for superheroes, view detailed information about them, and add your favorites to a persistent storage for easy access. Built using HTML, CSS, and JavaScript, this project uses the Superhero API to dynamically fetch superhero data, and also incorporates localStorage to save your favorite superheroes.
+Welcome to the Superhero Search https://vishall-singh.github.io/superhero-new/index.html & Details project! This web app allows you to search for superheroes, view detailed information about them, and add your favorites to a persistent storage for easy access. Built using HTML, CSS, and JavaScript, this project uses the Superhero API to dynamically fetch superhero data, and also incorporates localStorage to save your favorite superheroes.
 
 Features
 1. Home Page - Superhero Search
